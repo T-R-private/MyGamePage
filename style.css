@@ -13,6 +13,9 @@ h2 {
     padding: 1rem 2rem;
     border-left: 4px solid #000;
 }
+h3 {
+    font-size: 30px;
+}
 .proLang {
     color: rgba(6, 10, 250, 0.88);
 }
@@ -20,7 +23,7 @@ h2 {
     font-weight: bold;
 }
 .accordion {
-	width: 800px;
+	width: auto;
 	margin: 0 auto;
 }
 
