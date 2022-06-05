@@ -1,0 +1,40 @@
+h1 {
+	padding: 1rem 2rem;
+  color: #fff;
+  background-image: webkit-gradient(linear, left top, right top, from(#fa709a), to(#fee140));
+  background-image: -webkit-linear-gradient(left, #fa709a 0%, #fee140 100%);
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+
+
+
+
+h2 {
+    padding: 1rem 2rem;
+    border-left: 4px solid #000;
+}
+.proLang {
+    color: rgba(6, 10, 250, 0.88);
+}
+.duration {
+    font-weight: bold;
+}
+.accordion {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.accordion-trigger {
+	margin: 0;
+	padding: 10px;
+	display: block;
+	background: rgb(70, 67, 67);
+	color: rgb(12, 232, 63);
+	border-top: 1px solid #ccc;
+}
+.accordion-contents {
+	margin: 0;
+	padding: 10px;
+	border: 1px solid #ccc;
+	display: none;
+}
